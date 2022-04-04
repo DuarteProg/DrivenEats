@@ -81,7 +81,7 @@ window.open(mensagemFinal,'_blank');
 
 function numeroWpp() {
     let total = (frangoPreco + bebidaPreco + sobremesaPreco).toFixed(2);
-    let numeroCel = "2155900000000"
+    let numeroCel = "5521986610934"
     let descricaoFinal = 
     `Olá, gostaria de fazer o pedido:
 - Prato: ${frango}
